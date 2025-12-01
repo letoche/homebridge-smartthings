@@ -9,7 +9,7 @@
         "title": "Name",
         "type": "string",
         "required": true,
-        "default": "Smartthings Plug (IK)"
+        "default": "Smartthings Plug (PC)"
       },
       "BaseURL": {
         "title": "Base URL",
@@ -29,7 +29,6 @@
         "required": false,
         "default": ""
       },
-
       "GarageDoorMaxPoll": {
         "title": "Garage Door Max Poll",
         "type": "integer",
